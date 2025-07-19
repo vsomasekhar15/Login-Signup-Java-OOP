@@ -11,7 +11,7 @@ This project is a **Java-based console application** that allows users to regist
 ├── Login.java        # Handles user login
 ├── Validation.java   # Validates user input (email, mobile, password)
 ├── Userobj.java      # Model class for user data
-├── Userd.java        # Manages User details for
+├── Userd.java        # Manages User details
 ```
 
 ## ✅ Features
